@@ -4,7 +4,7 @@
   <title><![CDATA[Precious' Blog]]></title>
   <link href="http://gprestes.github.com/atom.xml" rel="self"/>
   <link href="http://gprestes.github.com/"/>
-  <updated>2012-11-05T14:44:06-02:00</updated>
+  <updated>2012-11-05T15:05:07-02:00</updated>
   <id>http://gprestes.github.com/</id>
   <author>
     <name><![CDATA[Guilherme Heuser Prestes]]></name>
@@ -14,11 +14,14 @@
 
   
   <entry>
-    <title type="html"><![CDATA[first_post]]></title>
+    <title type="html"><![CDATA[First Post]]></title>
     <link href="http://gprestes.github.com/blog/2012/11/05/first-post/"/>
     <updated>2012-11-05T00:00:00-02:00</updated>
     <id>http://gprestes.github.com/blog/2012/11/05/first-post</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>This is just the first dummy post on the blog. Stick around for more crazy
+ideas.</p>
+
+<p>Bis bald!</p>
 ]]></content>
   </entry>
   
