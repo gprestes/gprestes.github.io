@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Precious' Blog]]></title>
+  <link href="http://gprestes.github.com/atom.xml" rel="self"/>
+  <link href="http://gprestes.github.com/"/>
+  <updated>2012-11-05T15:23:35-02:00</updated>
+  <id>http://gprestes.github.com/</id>
+  <author>
+    <name><![CDATA[Guilherme Heuser Prestes]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://gprestes.github.com/blog/2012/11/05/first-post/"/>
+    <updated>2012-11-05T00:00:00-02:00</updated>
+    <id>http://gprestes.github.com/blog/2012/11/05/first-post</id>
+    <content type="html"><![CDATA[<p>This is just the first dummy post on the blog. Stick around for more crazy
+ideas.</p>
+
+<p>Bis bald!</p>
+]]></content>
+  </entry>
+  
+</feed>
