@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Precious' Blog]]></title>
+  <title><![CDATA[Buzzword Driven Development]]></title>
   <link href="http://gprestes.github.com/atom.xml" rel="self"/>
   <link href="http://gprestes.github.com/"/>
-  <updated>2012-11-05T15:23:35-02:00</updated>
+  <updated>2012-11-23T21:24:41-02:00</updated>
   <id>http://gprestes.github.com/</id>
   <author>
     <name><![CDATA[Guilherme Heuser Prestes]]></name>
