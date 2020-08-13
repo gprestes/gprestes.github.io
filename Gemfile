@@ -12,7 +12,7 @@ group :development do
   gem 'rubypants', '0.7.1'
   gem 'rb-fsevent', '0.9'
   gem 'stringex', '1.4.0'
-  gem 'liquid', '2.3.0'
+  gem 'liquid', '2.6.3'
 end
 
 gem 'sinatra', '1.4.8'
