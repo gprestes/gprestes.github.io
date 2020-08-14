@@ -8,7 +8,7 @@ group :development do
   gem 'pygments.rb', '1.2.1'
   gem 'RedCloth', '4.3.2'
   gem 'haml', '5.1.2'
-  gem 'compass', '0.12.7'
+  gem 'compass', '1.0.3'
   gem 'rubypants', '0.7.1'
   gem 'rb-fsevent', '0.10.4'
   gem 'stringex', '2.8.5'
