@@ -1,7 +1,7 @@
 source "http://rubygems.org"
 
 group :development do
-  gem 'rake', '13.0.3'
+  gem 'rake', '13.0.4'
   gem 'rack', '2.2.3'
   gem 'jekyll', '4.2.0'
   gem 'rdiscount', '2.2.0.2'
