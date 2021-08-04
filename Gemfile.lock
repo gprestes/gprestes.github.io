@@ -25,7 +25,7 @@ GEM
     eventmachine (1.2.7)
     ffi (1.14.2)
     forwardable-extended (2.6.0)
-    haml (5.2.1)
+    haml (5.2.2)
       temple (>= 0.8.0)
       tilt
     http_parser.rb (0.6.0)
@@ -100,7 +100,7 @@ PLATFORMS
 DEPENDENCIES
   RedCloth (= 4.3.2)
   compass (= 1.0.3)
-  haml (= 5.2.1)
+  haml (= 5.2.2)
   jekyll (= 4.2.0)
   liquid (= 4.0.3)
   pygments.rb (= 2.2.0)
