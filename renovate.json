@@ -1,4 +1,8 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "baseBranches": ["source"]
+  "baseBranches": ["source"],
+  "packageRules": [{
+    "matchDepTypes": ["devDependencies"],
+    "automerge": true
+  }]
 }
