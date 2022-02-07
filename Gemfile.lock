@@ -70,7 +70,7 @@ GEM
     rack-protection (2.1.0)
       rack
     rake (13.0.6)
-    rb-fsevent (0.11.0)
+    rb-fsevent (0.11.1)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rdiscount (2.2.0.2)
@@ -106,7 +106,7 @@ DEPENDENCIES
   pygments.rb (= 2.2.0)
   rack (= 2.2.3)
   rake (= 13.0.6)
-  rb-fsevent (= 0.11.0)
+  rb-fsevent (= 0.11.1)
   rdiscount (= 2.2.0.2)
   rubypants (= 0.7.1)
   sinatra (= 2.1.0)
