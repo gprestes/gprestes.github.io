@@ -25,8 +25,9 @@ GEM
     eventmachine (1.2.7)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
-    haml (5.2.2)
-      temple (>= 0.8.0)
+    haml (6.0.0)
+      temple (>= 0.8.2)
+      thor
       tilt
     http_parser.rb (0.8.0)
     i18n (1.10.0)
@@ -91,6 +92,7 @@ GEM
     temple (0.8.2)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
+    thor (1.2.1)
     tilt (2.0.11)
     unicode-display_width (1.8.0)
 
@@ -100,7 +102,7 @@ PLATFORMS
 DEPENDENCIES
   RedCloth (= 4.3.2)
   compass (= 1.0.3)
-  haml (= 5.2.2)
+  haml (= 6.0.0)
   jekyll (= 4.2.2)
   liquid (= 4.0.3)
   pygments.rb (= 2.3.0)
