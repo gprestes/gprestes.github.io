@@ -3,7 +3,7 @@ source "http://rubygems.org"
 group :development do
   gem 'rake', '13.0.6'
   gem 'rack', '2.2.4'
-  gem 'jekyll', '4.2.2'
+  gem 'jekyll', '4.3.0'
   gem 'rdiscount', '2.2.0.2'
   gem 'pygments.rb', '2.3.0'
   gem 'RedCloth', '4.3.2'
