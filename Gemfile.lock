@@ -67,7 +67,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.7)
-    pygments.rb (2.3.0)
+    pygments.rb (2.3.1)
     rack (2.2.6.2)
     rack-protection (3.0.5)
       rack
@@ -107,7 +107,7 @@ DEPENDENCIES
   haml (= 6.1.1)
   jekyll (= 4.3.2)
   liquid (= 4.0.4)
-  pygments.rb (= 2.3.0)
+  pygments.rb (= 2.3.1)
   rack (= 2.2.6.2)
   rake (= 13.0.6)
   rb-fsevent (= 0.11.2)
