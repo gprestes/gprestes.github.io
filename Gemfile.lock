@@ -83,7 +83,7 @@ GEM
     rubypants (0.7.1)
     safe_yaml (1.0.5)
     sass (3.4.25)
-    sass-embedded (1.60.0)
+    sass-embedded (1.61.0)
       google-protobuf (~> 3.21)
       rake (>= 10.0.0)
     sinatra (3.0.5)
