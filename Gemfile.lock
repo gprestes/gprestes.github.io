@@ -70,7 +70,7 @@ GEM
     public_suffix (5.0.1)
     pygments.rb (2.3.1)
     rack (2.2.6.4)
-    rack-protection (3.0.5)
+    rack-protection (3.0.6)
       rack
     rake (13.0.6)
     rb-fsevent (0.11.2)
@@ -86,10 +86,10 @@ GEM
     sass-embedded (1.60.0)
       google-protobuf (~> 3.21)
       rake (>= 10.0.0)
-    sinatra (3.0.5)
+    sinatra (3.0.6)
       mustermann (~> 3.0)
       rack (~> 2.2, >= 2.2.4)
-      rack-protection (= 3.0.5)
+      rack-protection (= 3.0.6)
       tilt (~> 2.0)
     stringex (2.8.5)
     temple (0.10.0)
@@ -115,7 +115,7 @@ DEPENDENCIES
   rb-fsevent (= 0.11.2)
   rdiscount (= 2.2.7)
   rubypants (= 0.7.1)
-  sinatra (= 3.0.5)
+  sinatra (= 3.0.6)
   stringex (= 2.8.5)
 
 BUNDLED WITH
