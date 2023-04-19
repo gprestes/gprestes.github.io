@@ -11,7 +11,7 @@ group :development do
   gem 'compass', '1.0.3'
   gem 'rubypants', '0.7.1'
   gem 'rb-fsevent', '0.11.2'
-  gem 'stringex', '2.8.5'
+  gem 'stringex', '2.8.6'
   gem 'liquid', '4.0.4'
 end
 
