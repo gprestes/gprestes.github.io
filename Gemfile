@@ -5,7 +5,7 @@ group :development do
   gem 'rack', '2.2.8'
   gem 'jekyll', '4.3.2'
   gem 'rdiscount', '2.2.7.1'
-  gem 'pygments.rb', '2.4.0'
+  gem 'pygments.rb', '2.4.1'
   gem 'RedCloth', '4.3.3'
   gem 'haml', '6.2.3'
   gem 'compass', '1.0.3'
