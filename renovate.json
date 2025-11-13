@@ -1,14 +1,14 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "baseBranches": [
+    "source"
+  ],
   "lockFileMaintenance": {
     "enabled": true,
     "extends": [
       "schedule:daily"
     ]
   },
-  "baseBranches": [
-    "source"
-  ],
   "platformAutomerge": true,
   "packageRules": [
     {
